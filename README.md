@@ -17,7 +17,7 @@ My journey as a Network Engineer has led me to develop a deep passion for cybers
 | Security Automation with Shuffle SOAR         | <a href="https://google.com">SOAR Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://google.com">Incident Response Lab</a>|
 | Case Management with Autopsy                  | <a href="https://google.com">Autopsy Lab</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://google.com">Scripting Lab</a>|
+| Vulnerability Scanning                        | <a href="https://github.com/tmukundu1/Scanning-Lab">Scanning Lab</a>|
 
 ## Tools
 
