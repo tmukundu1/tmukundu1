@@ -1,7 +1,7 @@
 # Hello, I'm Tendai Silas Mukundu
 <a href="https://linkedin.com/in/tensilamuk/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m passionate about cybersecurity and committed to ensuring secure, high-performance network operations and secure systems. I hold a Bachelor's degree in Electronic Engineering and am currently pursuing a Master of Science in Cybersecurity with a concentration in secure systems. My career spans from network support, through deployment, to leading architecture upgrades that seek to make it more versatile and secure. 
+I’m passionate about cybersecurity and committed to ensuring secure, high-performance network operations and secure systems. I hold a Bachelor's degree in Electronic Engineering and am currently pursuing a Master of Science in Cybersecurity with a concentration in secure systems. My career spans from network support, through deployment, to leading architecture upgrades that seek to make infrastructure more versatile and secure. 
 
 ## Objective
 
