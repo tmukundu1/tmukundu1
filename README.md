@@ -8,7 +8,6 @@ I’m passionate about cybersecurity and committed to ensuring secure, high-perf
 My journey as a Network Engineer has led me to develop a deep passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. This should provide me with a solid foundation for a career in this field.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
